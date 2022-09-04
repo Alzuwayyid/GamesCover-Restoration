@@ -1,6 +1,6 @@
 # GamesCover-Restoration
 
-## App restoration is an essential feature to add to provide a better user experience.
+## App restoration is an essential feature to provide a better user experience.
 
 In this project, you will create your restoration solution following a scene-delegate approach.
 
